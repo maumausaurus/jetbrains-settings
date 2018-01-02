@@ -20,6 +20,10 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl colon" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -31,17 +35,8 @@
   <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="RenameAttributeAction">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
-  <action id="RenameProject">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
-  <action id="RenameTagAction">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReopenClosedTab">
