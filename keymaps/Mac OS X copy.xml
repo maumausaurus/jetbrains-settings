@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="shift meta slash" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="ctrl meta colon" />
+    <keyboard-shortcut first-keystroke="meta alt colon" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
