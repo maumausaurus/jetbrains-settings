@@ -6,10 +6,6 @@
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
-  <action id="AutoIndentLines">
-    <keyboard-shortcut first-keystroke="meta alt i" />
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -20,14 +16,12 @@
     <keyboard-shortcut first-keystroke="shift meta slash" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="ctrl meta colon" />
-    <keyboard-shortcut first-keystroke="meta alt colon" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta colon" />
   </action>
-  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -44,7 +38,6 @@
   <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="QuickImplementations" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
