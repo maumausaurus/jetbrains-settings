@@ -34,6 +34,12 @@
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -42,6 +48,12 @@
   <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="QuickImplementations" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
