@@ -6,6 +6,7 @@
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".upignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
