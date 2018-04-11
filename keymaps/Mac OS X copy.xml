@@ -51,6 +51,10 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
