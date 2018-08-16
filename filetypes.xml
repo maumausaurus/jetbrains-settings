@@ -10,9 +10,10 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="fcgi" type="PythonStub" />
       <mapping ext="pgdump" type="SQL" />
+      <mapping ext="fcgi" type="PythonStub" />
     </extensionMap>
   </component>
 </application>
