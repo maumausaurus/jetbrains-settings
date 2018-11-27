@@ -34,6 +34,9 @@
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -52,9 +55,7 @@
   <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
+  <action id="NextTab" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="meta alt l" />
