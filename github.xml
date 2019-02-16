@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="d77793a2-c6ad-4051-ae56-a9a71ac582ad" name="Vadorequest">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
