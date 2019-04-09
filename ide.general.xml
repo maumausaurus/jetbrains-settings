@@ -8,5 +8,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="terminal.buffer.max.lines.count" value="1000000" />
     <entry key="ide.tooltip.show.with.actions" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
