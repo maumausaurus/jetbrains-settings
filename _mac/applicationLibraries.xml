@@ -19,12 +19,10 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_storage.googleapis.com_studylink-loan-advisor_babel-polyfill-6.23.0.min.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_storage.googleapis.com_the-funding-place_assets_libs_babel-polyfill-6.23.0.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_storage.googleapis.com_studylink-loan-advisor_babel-polyfill-6.23.0.min.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_storage.googleapis.com_the-funding-place_assets_libs_babel-polyfill-6.23.0.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
