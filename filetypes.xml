@@ -9,6 +9,7 @@
       <mapping pattern=".stylintignore" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess-staging" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
@@ -18,8 +19,8 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="pgdump" type="SQL" />
       <mapping ext="fcgi" type="PythonStub" />
+      <mapping ext="pgdump" type="SQL" />
     </extensionMap>
   </component>
 </application>
