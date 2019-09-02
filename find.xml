@@ -18,5 +18,6 @@
     <mask>*.py</mask>
     <mask>models.py</mask>
     <mask>*.js</mask>
+    <mask>*.test.ts</mask>
   </component>
 </application>
