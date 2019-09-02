@@ -52,6 +52,9 @@
     <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt v" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
