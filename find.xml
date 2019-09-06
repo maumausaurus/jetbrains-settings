@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +22,7 @@
     <mask>*.mxml</mask>
     <mask>*.py</mask>
     <mask>models.py</mask>
-    <mask>*.js</mask>
     <mask>*.test.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
