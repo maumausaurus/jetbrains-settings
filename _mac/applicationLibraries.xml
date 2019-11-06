@@ -28,6 +28,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bundle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_browser.sentry-cdn.com_5.7.1_bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_browser.sentry-cdn.com_5.7.1_bundle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="latest-free-all" type="javaScript">
       <properties>
         <sourceFilesUrls>
