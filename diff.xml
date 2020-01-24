@@ -22,9 +22,10 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="Default">
+      <entry key="CommitDialog">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
     </option>
