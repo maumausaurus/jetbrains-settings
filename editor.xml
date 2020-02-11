@@ -13,7 +13,12 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\bxxx\b.*" />
+    <pattern icon="question" pattern="\bxxx\b.*" />
     <pattern pattern="\bhack\b.*" />
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bDA\b.*">
+      <option name="FOREGROUND" value="2d79c0" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
   </component>
 </application>
