@@ -60,13 +60,10 @@
   <action id="Images.ShowThumbnails" />
   <action id="NextTab" />
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
-  <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
