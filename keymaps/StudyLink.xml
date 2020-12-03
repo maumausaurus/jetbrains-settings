@@ -6,10 +6,6 @@
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
-  <action id="AutoIndentLines">
-    <keyboard-shortcut first-keystroke="meta alt i" />
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -64,19 +60,12 @@
   <action id="Images.ShowThumbnails" />
   <action id="NextTab" />
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
   <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="meta s" />
-    <keyboard-shortcut first-keystroke="meta s" second-keystroke="shift ctrl meta i" />
-  </action>
-  <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="meta s" />
-    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
