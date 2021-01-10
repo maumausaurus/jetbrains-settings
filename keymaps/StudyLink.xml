@@ -60,7 +60,8 @@
   <action id="Images.ShowThumbnails" />
   <action id="NextTab" />
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
