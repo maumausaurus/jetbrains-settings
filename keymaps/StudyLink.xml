@@ -57,6 +57,7 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="HippieBackwardCompletion" />
   <action id="Images.ShowThumbnails" />
   <action id="NextTab" />
   <action id="PreviousTab" />
