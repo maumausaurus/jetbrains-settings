@@ -140,9 +140,8 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -832,6 +831,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mdx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mdx.js" />
+              <option name="myPluginName" value="MDX" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mjs">
           <value>
             <plugin>
@@ -1355,9 +1362,8 @@
         <entry key="*.tsv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>

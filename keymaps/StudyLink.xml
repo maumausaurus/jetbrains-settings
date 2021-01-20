@@ -57,11 +57,9 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="HippieBackwardCompletion" />
   <action id="Images.ShowThumbnails" />
   <action id="NextTab" />
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
   <action id="RenameElement">
