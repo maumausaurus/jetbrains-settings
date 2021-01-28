@@ -140,8 +140,9 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1362,8 +1363,9 @@
         <entry key="*.tsv">
           <value>
             <plugin>
-              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1379,9 +1381,8 @@
         <entry key="*.txt">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
             </plugin>
           </value>
         </entry>
