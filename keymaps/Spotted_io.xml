@@ -59,10 +59,13 @@
   <action id="GotoTest" />
   <action id="HippieBackwardCompletion" />
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceParameter" />
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
-  <action id="ReformatCode" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
