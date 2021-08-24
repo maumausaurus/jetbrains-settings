@@ -63,6 +63,9 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
+  <action id="ReactExtractComponentAction">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
