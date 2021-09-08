@@ -6,6 +6,7 @@
       <mapping pattern="id_rsa_CDE" type="PLAIN_TEXT" />
       <mapping pattern=".actrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.old2" type="PLAIN_TEXT" />
+      <mapping pattern=".env.old3" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
