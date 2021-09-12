@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="md " type="Markdown" />
       <mapping pattern=".releaserc" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_CDE" type="PLAIN_TEXT" />
       <mapping pattern=".actrc" type="PLAIN_TEXT" />
