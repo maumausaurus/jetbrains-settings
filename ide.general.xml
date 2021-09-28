@@ -8,7 +8,6 @@
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
-    <entry key="terminal.buffer.max.lines.count" value="1000000" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
   <component name="StatusBar">
