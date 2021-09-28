@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/Vadorequest/react-admin-graphql-boilerplate" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/UnlyEd/propulseo-invoicing-tools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/unlyEd" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />

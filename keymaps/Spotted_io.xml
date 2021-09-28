@@ -63,6 +63,9 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
+  <action id="ReactExtractComponentAction">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
@@ -71,7 +74,7 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RenameProject">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift f2" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
